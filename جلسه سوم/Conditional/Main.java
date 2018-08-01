@@ -1,0 +1,10 @@
+package com.polymorphism;
+
+
+import java.util.Scanner;
+
+public class Main{
+    public static void main(String[] args) {
+        SwitchSample.switchSample();
+    }
+}
